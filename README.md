@@ -7,6 +7,8 @@ It doesn't aim to be complete and is still very work in progress.
 
 ## Status
 
-- Radiative transfer (basic model available)
+**very early stage**
+
+- Radiative transfer (basic functions implemented)
 
 The model is implemented in Julia
